@@ -3,7 +3,10 @@ I m a student who is curious to make websites
 <h1 align="center">Hi 👋, I'm vaishnavi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavipatil999&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipatil999" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vaishnavipatil999&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipatil999" /> </p>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavipatil999" alt="vaishnavipatil999" /></a> </p>
 
